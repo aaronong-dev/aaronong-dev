@@ -51,7 +51,7 @@ The platform includes tournament discovery, live scoring, brackets, side pots, d
 
 ---
 
-### Languages and Technologies
+### 🧰 Languages and Tools
 
 <h4>Frontend</h4>
 
