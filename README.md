@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aaron Ong 👋</h1>
+<h1 align="center">Hi, I'm Aaron 👋</h1>
 
 <h3 align="center">
   Software Developer building practical digital products for businesses and communities
